@@ -48,10 +48,10 @@ basesplit = base4.replace('=', 'X').replace('A', '3').replace('B', '9').replace(
 
 
 class Main:
-	def __init__(dawood):
+	def __init__(self):
 		self.id = []
-		dawood.ok = []
-		alex.cp = []
+		self.ok = []
+		self.cp = []
 		self.loop = 0
 		os.system("clear")
 		
